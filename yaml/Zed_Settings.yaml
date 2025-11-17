@@ -1,0 +1,61 @@
+%YAML:1.0
+---
+front_brightness_day: 6
+front_contrast_day: 2
+front_hue_day: 0
+front_saturation_day: 5
+front_sharpness_day: 5
+front_gamma_day: 0
+front_whitebalance_temperature_day: 4300
+front_gain_day: 35
+front_exposure_day: 100
+
+behind_brightness_day: 6
+behind_contrast_day: 2
+behind_hue_day: 0
+behind_saturation_day: 5
+behind_sharpness_day: 5
+behind_gamma_day: 0
+behind_whitebalance_temperature_day: 4300
+behind_gain_day: 70
+behind_exposure_day: 100
+
+front_brightness_noon: 6
+front_contrast_noon: 2
+front_hue_noon: 0
+front_saturation_noon: 5
+front_sharpness_noon: 5
+front_gamma_noon: 0
+front_whitebalance_temperature_noon: 4300
+front_gain_noon: 30
+front_exposure_noon: 100
+
+behind_brightness_noon: 6
+behind_contrast_noon: 2
+behind_hue_noon: 0
+behind_saturation_noon: 5
+behind_sharpness_noon: 5
+behind_gamma_noon: 0
+behind_whitebalance_temperature_noon: 4300
+behind_gain_noon: 60
+behind_exposure_noon: 100
+
+front_brightness_night: 6
+front_contrast_night: 2
+front_hue_night: 0
+front_saturation_night: 5
+front_sharpness_night: 5
+front_gamma_night: 0
+front_whitebalance_temperature_night: 4300
+front_gain_night: 65
+front_exposure_night: 100
+
+behind_brightness_night: 6
+behind_contrast_night: 2
+behind_hue_night: 0
+behind_saturation_night: 5
+behind_sharpness_night: 5
+behind_gamma_night: 0
+behind_whitebalance_temperature_night: 4300
+behind_gain_night: 85
+behind_exposure_night: 100
